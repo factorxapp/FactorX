@@ -2,7 +2,7 @@
 
 Tus cobros de Mercado Pago, facturados en ARCA desde el celular.
 
-**Descargala desde la página oficial: https://factorx-a795d.web.app/descargar**
+**Descargala desde la página oficial: https://factorx.web.app/descargar/**
 
 Acá se publican las versiones de la app (sección *Releases*). La última siempre está en
 https://github.com/factorxapp/FactorX/releases/latest/download/FactorX.apk
